@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: ed3e4d0d332a0f9499379860ff97ee05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2293582294182289791
+    second: particles_ui_energy_bar_2_0
+  - first:
+      213: -1640013627750035415
+    second: particles_ui_energy_bar_2_1
+  - first:
+      213: -4338503079393306877
+    second: particles_ui_energy_bar_2_2
+  - first:
+      213: -6890105221962463708
+    second: particles_ui_energy_bar_2_3
+  - first:
+      213: -8675850924960936067
+    second: particles_ui_energy_bar_2_4
+  - first:
+      213: -158054983948114464
+    second: particles_ui_energy_bar_2_5
+  - first:
+      213: 2146452532363339210
+    second: particles_ui_energy_bar_2_6
+  - first:
+      213: -4915037449711190753
+    second: particles_ui_energy_bar_2_7
+  - first:
+      213: -4126027877176549376
+    second: particles_ui_energy_bar_2_8
+  - first:
+      213: 2213551334034693912
+    second: particles_ui_energy_bar_2_9
+  - first:
+      213: 9084776983306477713
+    second: particles_ui_energy_bar_2_10
+  - first:
+      213: -1900353829755874662
+    second: particles_ui_energy_bar_2_11
+  - first:
+      213: 211267704786053087
+    second: particles_ui_energy_bar_2_12
+  - first:
+      213: 7850698416141142932
+    second: particles_ui_energy_bar_2_13
+  - first:
+      213: -291719978368083220
+    second: particles_ui_energy_bar_2_14
+  - first:
+      213: -7588355803576273958
+    second: particles_ui_energy_bar_2_15
+  - first:
+      213: -8340079087733916066
+    second: particles_ui_energy_bar_2_16
+  - first:
+      213: 3931017571840163854
+    second: particles_ui_energy_bar_2_17
+  - first:
+      213: 7037254592762801114
+    second: particles_ui_energy_bar_2_18
+  - first:
+      213: -6342086291510750056
+    second: particles_ui_energy_bar_2_19
+  - first:
+      213: -4505004339301702893
+    second: particles_ui_energy_bar_2_20
+  - first:
+      213: 4619720813155555816
+    second: particles_ui_energy_bar_2_21
+  - first:
+      213: -9027218496105108798
+    second: particles_ui_energy_bar_2_22
+  - first:
+      213: -7696092029853820515
+    second: particles_ui_energy_bar_2_23
+  - first:
+      213: -7937349998000334773
+    second: particles_ui_energy_bar_2_24
+  - first:
+      213: -7760941825288139115
+    second: particles_ui_energy_bar_2_25
+  - first:
+      213: 2954552154153293455
+    second: particles_ui_energy_bar_2_26
+  - first:
+      213: 6090553969419920438
+    second: particles_ui_energy_bar_2_27
+  - first:
+      213: 3925500841378391420
+    second: particles_ui_energy_bar_2_28
+  - first:
+      213: -2765529368589609297
+    second: particles_ui_energy_bar_2_29
+  - first:
+      213: -5549792996999557582
+    second: particles_ui_energy_bar_2_30
+  - first:
+      213: 5745415976735755162
+    second: particles_ui_energy_bar_2_31
+  - first:
+      213: 7304854285467816773
+    second: particles_ui_energy_bar_2_32
+  - first:
+      213: 3790189174485977655
+    second: particles_ui_energy_bar_2_33
+  - first:
+      213: 4686385837002946936
+    second: particles_ui_energy_bar_2_34
+  - first:
+      213: 7276858246454776162
+    second: particles_ui_energy_bar_2_35
+  - first:
+      213: 8920399689134859229
+    second: particles_ui_energy_bar_2_36
+  - first:
+      213: 7129433314522683052
+    second: particles_ui_energy_bar_2_37
+  - first:
+      213: 188165745703473825
+    second: particles_ui_energy_bar_2_38
+  - first:
+      213: 5111102312105548804
+    second: particles_ui_energy_bar_2_39
+  - first:
+      213: -6850849181229725231
+    second: particles_ui_energy_bar_2_40
+  - first:
+      213: -4556961678418738026
+    second: particles_ui_energy_bar_2_41
+  - first:
+      213: -3761825241244263252
+    second: particles_ui_energy_bar_2_42
+  - first:
+      213: -4929472899114072454
+    second: particles_ui_energy_bar_2_43
+  - first:
+      213: -3781896444196720953
+    second: particles_ui_energy_bar_2_44
+  - first:
+      213: -6831541536925018860
+    second: particles_ui_energy_bar_2_45
+  - first:
+      213: 885829044148603190
+    second: particles_ui_energy_bar_2_46
+  - first:
+      213: -1083870780971643761
+    second: particles_ui_energy_bar_2_47
+  - first:
+      213: -45029712711025228
+    second: particles_ui_energy_bar_2_48
+  - first:
+      213: -341700906895404179
+    second: particles_ui_energy_bar_2_49
+  - first:
+      213: -5520295747706661980
+    second: particles_ui_energy_bar_2_50
+  - first:
+      213: -7838921203115473077
+    second: particles_ui_energy_bar_2_51
+  - first:
+      213: -2641681038841264872
+    second: particles_ui_energy_bar_2_52
+  - first:
+      213: -7121846434216891942
+    second: particles_ui_energy_bar_2_53
+  - first:
+      213: 6733266426794712828
+    second: particles_ui_energy_bar_2_54
+  - first:
+      213: -5757009119713183824
+    second: particles_ui_energy_bar_2_55
+  - first:
+      213: 1980608445987945012
+    second: particles_ui_energy_bar_2_56
+  - first:
+      213: 2789420773831426078
+    second: particles_ui_energy_bar_2_57
+  - first:
+      213: -6848144012446301624
+    second: particles_ui_energy_bar_2_58
+  - first:
+      213: -4369214772233591128
+    second: particles_ui_energy_bar_2_59
+  - first:
+      213: 4071114819007087198
+    second: particles_ui_energy_bar_2_60
+  - first:
+      213: 1223023266217973795
+    second: particles_ui_energy_bar_2_61
+  - first:
+      213: -377501501857807074
+    second: particles_ui_energy_bar_2_62
+  - first:
+      213: 3045225425766667367
+    second: particles_ui_energy_bar_2_63
+  - first:
+      213: 5492246661817437290
+    second: particles_ui_energy_bar_2_64
+  - first:
+      213: -4284687229607505908
+    second: particles_ui_energy_bar_2_65
+  - first:
+      213: -5138418040560753774
+    second: particles_ui_energy_bar_2_66
+  - first:
+      213: -9055533108913764305
+    second: particles_ui_energy_bar_2_67
+  - first:
+      213: 9086244358653847366
+    second: particles_ui_energy_bar_2_68
+  - first:
+      213: 5117382204112402359
+    second: particles_ui_energy_bar_2_69
+  - first:
+      213: -5634093423291051806
+    second: particles_ui_energy_bar_2_70
+  - first:
+      213: 2431781912623827227
+    second: particles_ui_energy_bar_2_71
+  - first:
+      213: 852592705292321002
+    second: particles_ui_energy_bar_2_72
+  - first:
+      213: -3690807642448043539
+    second: particles_ui_energy_bar_2_73
+  - first:
+      213: -3639648338227865915
+    second: particles_ui_energy_bar_2_74
+  - first:
+      213: -705409933402166817
+    second: particles_ui_energy_bar_2_75
+  - first:
+      213: -1302474687194392997
+    second: particles_ui_energy_bar_2_76
+  - first:
+      213: 1871830960412937141
+    second: particles_ui_energy_bar_2_77
+  - first:
+      213: -4938562463225839681
+    second: particles_ui_energy_bar_2_78
+  - first:
+      213: -5472922577827330784
+    second: particles_ui_energy_bar_2_79
+  - first:
+      213: -3420056083495485126
+    second: particles_ui_energy_bar_2_80
+  - first:
+      213: -8145305886032905343
+    second: particles_ui_energy_bar_2_81
+  - first:
+      213: -9186208812926310964
+    second: particles_ui_energy_bar_2_82
+  - first:
+      213: -8869394373647890309
+    second: particles_ui_energy_bar_2_83
+  - first:
+      213: 5564895182784277175
+    second: particles_ui_energy_bar_2_84
+  - first:
+      213: 519050455568194037
+    second: particles_ui_energy_bar_2_85
+  - first:
+      213: 1265515077369022428
+    second: particles_ui_energy_bar_2_86
+  - first:
+      213: -9093001833986732013
+    second: particles_ui_energy_bar_2_87
+  - first:
+      213: 4792612550253424883
+    second: particles_ui_energy_bar_2_88
+  - first:
+      213: -4689345671152551293
+    second: particles_ui_energy_bar_2_89
+  - first:
+      213: 3143126842791024682
+    second: particles_ui_energy_bar_2_90
+  - first:
+      213: 7531231058993983258
+    second: particles_ui_energy_bar_2_91
+  - first:
+      213: 6935659997744083056
+    second: particles_ui_energy_bar_2_92
+  - first:
+      213: -8644059242893571684
+    second: particles_ui_energy_bar_2_93
+  - first:
+      213: -6781799455463523488
+    second: particles_ui_energy_bar_2_94
+  - first:
+      213: 1357326303659078423
+    second: particles_ui_energy_bar_2_95
+  - first:
+      213: -1606408463887515221
+    second: particles_ui_energy_bar_2_96
+  - first:
+      213: -975766430428920813
+    second: particles_ui_energy_bar_2_97
+  - first:
+      213: -3061214224100498090
+    second: particles_ui_energy_bar_2_98
+  - first:
+      213: -9181537781629336814
+    second: particles_ui_energy_bar_2_99
+  - first:
+      213: -3622807490037121212
+    second: particles_ui_energy_bar_2_100
+  - first:
+      213: -5582365613635568779
+    second: particles_ui_energy_bar_2_101
+  - first:
+      213: -6738976407402164133
+    second: particles_ui_energy_bar_2_102
+  - first:
+      213: 8217007420589756203
+    second: particles_ui_energy_bar_2_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716cd3d1f074df10800000000000000
+      internalID: 2293582294182289791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d8237b408d39e0800000000000000
+      internalID: -1640013627750035415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 208
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d2d78f6a8ac3c0800000000000000
+      internalID: -4338503079393306877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 208
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4260dd35ecd6160a0800000000000000
+      internalID: -6890105221962463708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f8575ec8f299780800000000000000
+      internalID: -8675850924960936067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5eaca54d97ecdf0800000000000000
+      internalID: -158054983948114464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 160
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac521cea43bb9cd10800000000000000
+      internalID: 2146452532363339210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_7
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 160
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df8300b774acbb0800000000000000
+      internalID: -4915037449711190753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000688f91876db6c0800000000000000
+      internalID: -4126027877176549376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fda3dd53d18be10800000000000000
+      internalID: 2213551334034693912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 112
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190a0a9788c931e70800000000000000
+      internalID: 9084776983306477713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9219d5a24690a5e0800000000000000
+      internalID: -1900353829755874662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e840bbd29ee200800000000000000
+      internalID: 211267704786053087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b80dc5d9843fc60800000000000000
+      internalID: 7850698416141142932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea5c7ba93a93fbf0800000000000000
+      internalID: -291719978368083220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ff8af99eb0b690800000000000000
+      internalID: -7588355803576273958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particles_ui_energy_bar_2_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 16
+        width: 416
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb4f0e146124c80800000000000000
+      internalID: -8340079087733916066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6ae2cf7c4d964e21860b338a424649f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":416.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      particles_ui_energy_bar_2_0: 2293582294182289791
+      particles_ui_energy_bar_2_1: -1640013627750035415
+      particles_ui_energy_bar_2_10: 9084776983306477713
+      particles_ui_energy_bar_2_11: -1900353829755874662
+      particles_ui_energy_bar_2_12: 211267704786053087
+      particles_ui_energy_bar_2_13: 7850698416141142932
+      particles_ui_energy_bar_2_14: -291719978368083220
+      particles_ui_energy_bar_2_15: -7588355803576273958
+      particles_ui_energy_bar_2_16: -8340079087733916066
+      particles_ui_energy_bar_2_2: -4338503079393306877
+      particles_ui_energy_bar_2_3: -6890105221962463708
+      particles_ui_energy_bar_2_4: -8675850924960936067
+      particles_ui_energy_bar_2_5: -158054983948114464
+      particles_ui_energy_bar_2_6: 2146452532363339210
+      particles_ui_energy_bar_2_7: -4915037449711190753
+      particles_ui_energy_bar_2_8: -4126027877176549376
+      particles_ui_energy_bar_2_9: 2213551334034693912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
