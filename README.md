@@ -2,8 +2,6 @@
 
 > **About this repository**
 > This is a partial extract of the code from *Core Overload*. The original project is currently in development toward a playable demo, so it is kept private. What you see here is a trimmed-down prototype, and some systems, including the enemy state machine architecture, live only in the original project and are not included.
->
-> Since the code was extracted from that larger project, the repository has a single commit instead of the original development history.
 
 ## Overview
 
